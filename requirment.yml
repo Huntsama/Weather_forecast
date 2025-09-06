@@ -1,0 +1,10 @@
+name: weather-notebook
+dependencies:
+  - python=3.7.16
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - tensorflow
+  - seaborn
+  - pip
